@@ -37,7 +37,7 @@ form{
     width: 50%;
     padding: 10px;
     border-radius: 10px;
-    background: rgb(100, 43, 43);
+    background: rgb(157, 153, 153);
     position: absolut;
     transform: translateY(-50%) scale(.8);
     opacity: 0;
@@ -124,7 +124,7 @@ form.active{
 }
 
 p{
-    color: rgb(59, 34, 34);
+    color: rgb(43, 35, 129);
 }
 #card{
     margin-top: -130px;;
